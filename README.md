@@ -28,7 +28,10 @@ Coming from different backgrounds we had different skills,yet though our collabo
 * Each section stores a different set of surgical tools.
 * A protective cover exposes only one section at a time.
 * The system rotates to the requested section using a motorized mechanism.
-* Currently it's voice controlled using the MIT App Inventor app. Which also responds to questions or responds to the surgeon assistant's preoccupations 
+* Currently it's voice controlled using the MIT App Inventor app. Which also responds to questions or responds to the surgeon assistant's preoccupations
+
+# 3D Design
+https://cad.onshape.com/documents/9db6ff5c66d13a1fedd771c3/w/82d2a611bcf9de8fac6bc7a6/e/7df4359143e994fe134851c2?renderMode=0&uiState=6a36ccbfa3c0da6f5b8efc7c
 
 <img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/1a0d62a5-b3c5-4b8d-9fbc-e64a0d48aaa7" />
 
