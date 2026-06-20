@@ -1,0 +1,51 @@
+﻿Circuit Documentation
+Summary of the Circuit
+This circuit is designed to control a DC gear motor using an ESP-WROOM-32 microcontroller, an L298 motor driver, and a rotary encoder for input. Additionally, a 0.96" OLED display is used to provide visual feedback. The circuit is powered by a 12V battery, which supplies power to the motor driver and other components. The ESP-WROOM-32 microcontroller interfaces with the motor driver to control the motor and reads input from the encoder to adjust motor behavior. The OLED display is used to show relevant information, such as motor speed or encoder position.
+Component List
+1. ESP-WROOM-32
+   * Description: A powerful microcontroller with integrated Wi-Fi and Bluetooth capabilities.
+   * Pins: EN, VP, VN, D34, D35, D32, D33, D25, D26, D27, D14, D12, D13, GND, 3V3, D15, D2, D4, D16, D17, D5, D18, D19, D21, RXO, TXO, D22, D23
+2. DC Gear Motor (3-6V)
+   * Description: A small DC motor with a gearbox to provide higher torque at lower speeds.
+   * Pins: V+, V-
+3. L298 Motor Driver
+   * Description: A dual H-bridge motor driver that allows control of two DC motors or a single stepper motor.
+   * Pins: ena D18, in1 D16, 5v, in4, in3, in2 D17, out4, out3, out1, out2, enb, gnd, 12v
+4. 0.96" OLED Display
+   * Description: A small OLED display used for visual feedback.
+   * Pins: GND, VDD, SCK, SDA
+5. Battery 12V
+   * Description: A power source for the circuit, providing 12V.
+   * Pins: +, -
+6. Encoder KY-040
+   * Description: A rotary encoder used for input, allowing the user to adjust settings or control the motor.
+   * Pins: A, B, SW, VCC, GND
+Wiring Details
+ESP-WROOM-32
+* GND is connected to the common ground shared with the battery, OLED, and encoder.
+* 3V3 is connected to the VDD of the OLED and VCC of the encoder.
+* D22 is connected to the SCK pin of the OLED.
+* D21 is connected to the SDA pin of the OLED.
+* D34 is connected to the A pin of the encoder.
+* D35 is connected to the B pin of the encoder.
+DC Gear Motor (3-6V)
+* V+ is connected to the out1 pin of the L298 motor driver.
+* V- is connected to the out2 pin of the L298 motor driver.
+L298 Motor Driver
+* 12v is connected to the positive terminal of the 12V battery.
+* gnd is connected to the common ground shared with the battery, ESP-WROOM-32, OLED, and encoder.
+* out1 is connected to the V+ of the DC gear motor.
+* out2 is connected to the V- of the DC gear motor.
+0.96" OLED Display
+* GND is connected to the common ground.
+* VDD is connected to the 3V3 pin of the ESP-WROOM-32.
+* SCK is connected to the D22 pin of the ESP-WROOM-32.
+* SDA is connected to the D21 pin of the ESP-WROOM-32.
+Battery 12V
+* + is connected to the 12v pin of the L298 motor driver.
+* - is connected to the common ground.
+Encoder KY-040
+* A is connected to the D34 pin of the ESP-WROOM-32.
+* B is connected to the D35 pin of the ESP-WROOM-32.
+* VCC is connected to the 3V3 pin of the ESP-WROOM-32.
+* GND is connected to the common ground.
