@@ -1,6 +1,8 @@
 > Copyright © 2026 Dr. Serve-Rus Development Team. All Rights Reserved.
 > Unauthorized copying, redistribution, modification, or re-uploading of this project is prohibited.
 
+https://github.com/user-attachments/assets/50626613-bbb9-4f42-bcba-4491be0fbc5f
+
 # Dr.-Serve-Rus
  Dr. Serve-Rus is an early-stage prototype created by a team of students and innovators. While the project demonstrates our core vision and functionality, it does not yet represent the final version of the system. We are continuously improving both the hardware and software and welcome constructive feedback as we continue development.
 Dr. Serve-Rus is a voice-controlled robotic surgical assistance system designed to support, not replace, human surgical assistants in operating rooms and emergency medical environments.
