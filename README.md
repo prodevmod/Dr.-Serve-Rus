@@ -5,11 +5,15 @@
  Dr. Serve-Rus is an early-stage prototype created by a team of students and innovators. While the project demonstrates our core vision and functionality, it does not yet represent the final version of the system. We are continuously improving both the hardware and software and welcome constructive feedback as we continue development.
 Dr. Serve-Rus is a voice-controlled robotic surgical assistance system designed to support, not replace, human surgical assistants in operating rooms and emergency medical environments.
 
+<img width="1182" height="886" alt="image" src="https://github.com/user-attachments/assets/9fe96da9-338c-495a-8e4f-d926ced07f44" />
+
 # Who are WE
 We are a team of students and innovators who participated in the.Coming from different backgrounds we had different skills,yet though our collaboration we gained insights on eaoch others skills while improoving the ones we had.
-* rosandrox12@gmail.com
+* rosandrox12@gmail.com or morampir23@sch.gr
 * ntinosmoulios@gmail.com or konmoulios@gmail.com or nlfgelakias@gmail.com
 * Anvlachakis2010@gmail.com
+* mariaelenisarimvei@gmail.com or m.sarimvei@acg.edu
+* fnmamoudis@gmail.com
 
 
 # More about the ACTUAL robot
@@ -21,6 +25,9 @@ Coming from different backgrounds we had different skills,yet though our collabo
 * A protective cover exposes only one section at a time.
 * The system rotates to the requested section using a motorized mechanism.
 * Currently it's voice controlled using the MIT App Inventor app. Which also responds to questions or responds to the surgeon assistant's preoccupations 
+
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/1a0d62a5-b3c5-4b8d-9fbc-e64a0d48aaa7" />
+
 
 # Main Goals
 * Provide faster access to surgical tools.
@@ -34,6 +41,9 @@ As this project is still an MVP and a prototype, not every idea of ours is expre
 * Add an AI API for a better assistant interaction
 * Use an actual app we make from scratch.
 * Spesialised compartments functions and a realistic comercial overall designed
+
+<img width="1180" height="1572" alt="image" src="https://github.com/user-attachments/assets/36eb61b3-ef73-4215-b8da-12fe3fd051de" />
+
 
 # Copyright & License
 
