@@ -16,7 +16,7 @@ We are a team of students and innovators who participated in the.Coming from dif
 * Anvlachakis2010@gmail.com
 * mariaelenisarimvei@gmail.com or m.sarimvei@acg.edu
 * fnmamoudis@gmail.com
-* *katsoulakisstelios@gmail.com
+* katsoulakisstelios@gmail.com
 
 
 
